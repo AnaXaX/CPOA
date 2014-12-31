@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/daoo/IJury.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/dao/oracle/OracleFilmDAO.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/vue/AjoutProjection.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/metier/Salle.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/vue/FenetreFestival.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/vue/PremiersAjouts.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/daoo/ISalle.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/dao/oracle/OraclePlanningDAO.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/metier/Projection.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/dao/oracle/OracleDataSourceDAO.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/dao/oracle/OracleJuryDAO.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/vue/logo.png</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/metier/Competition.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/metier/Planning.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/daoo/IPlanning.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/vue/ConfirmationAjoutProjection.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/dao/oracle/OracleProjectionDAO.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/daoo/IFilm.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/dao/oracle/OracleCompetitionDAO.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/daoo/IProjection.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/daoo/ICompetition.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/metier/Film.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/dao/oracle/OracleSalleDAO.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/vue/CreationPlanning.java</file>
+            <file>file:/C:/Users/mikou/Documents/NetBeansProjects/Festival/src/festival/metier/Jury.java</file>
+        </group>
+    </open-files>
+</project-private>
